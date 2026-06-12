@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi,I'm Rajeev Sharma 👋
 
-<!--
-**Rajeev-sharma-ji/Rajeev-sharma-ji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Computer Science & Engineering Student at Government Engineering College, Siwan
 
-Here are some ideas to get you started:
+💻 Passionate Full-Stack Developer | Problem Solver | Tech Explorer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Skilled in building scalable, responsive, and user-friendly web applications using modern technologies.
+
+🌱 Currently focused on mastering Data Structures & Algorithms in C++ and exploring AI Agents & Generative AI.
+
+⚡ Tech Stack: React.js, Next.js, TypeScript, Node.js, JavaScript, MongoDB, Express.js
+
+🧠 Strong interest in Software Engineering, System Design, and Real-World Product Development.
+
+🔍 Love solving coding problems, learning new technologies, and building impactful projects.
+
+🎯 Goal: To combine Full-Stack Development + AI Innovation to create powerful digital solutions.
+
+📌 Open to Internships | Entry-Level Software Roles | Web Development Opportunities
+
+✨ Turning ideas into scalable applications with clean code and smart solutions.
